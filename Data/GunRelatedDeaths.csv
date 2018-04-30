@@ -1,0 +1,153 @@
+Country,Year,CauseOfDeath,CauseOfDeathCode,Deaths
+Australia,2013,Handgun discharge (W32),W32,0
+Australia,2013,"Rifle, shotgun and larger firearm discharge (W33)",W33,2
+Australia,2013,Discharge from other and unspecified firearms (W34),W34,0
+Australia,2013,Intentional self-harm by handgun discharge (X72),X72,24
+Australia,2013,"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",X73,133
+Australia,2013,Intentional self-harm by other and unspecified firearm discharge (X74),X74,11
+Australia,2013,Assault by handgun discharge (X93),X93,9
+Australia,2013,"Assault by rifle, shotgun and larger firearm discharge (X94)",X94,21
+Australia,2013,Assault by other and unspecified firearm discharge (X95),X95,9
+Australia,2013,"Handgun discharge, undetermined intent (Y22)",Y22,1
+Australia,2013,"Rifle, shotgun and larger firearm discharge, undetermined intent (Y23)",Y23,0
+Australia,2013,"Other and unspecified firearm discharge, undetermined intent (Y24)",Y24,1
+Australia,2014,Handgun discharge (W32),W32,0
+Australia,2014,"Rifle, shotgun and larger firearm discharge (W33)",W33,3
+Australia,2014,Discharge from other and unspecified firearms (W34),W34,0
+Australia,2014,Intentional self-harm by handgun discharge (X72),X72,16
+Australia,2014,"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",X73,127
+Australia,2014,Intentional self-harm by other and unspecified firearm discharge (X74),X74,28
+Australia,2014,Assault by handgun discharge (X93),X93,4
+Australia,2014,"Assault by rifle, shotgun and larger firearm discharge (X94)",X94,15
+Australia,2014,Assault by other and unspecified firearm discharge (X95),X95,11
+Australia,2014,"Handgun discharge, undetermined intent (Y22)",Y22,0
+Australia,2014,"Rifle, shotgun and larger firearm discharge, undetermined intent (Y23)",Y23,6
+Australia,2014,"Other and unspecified firearm discharge, undetermined intent (Y24)",Y24,9
+Australia,2015,Handgun discharge (W32),W32,0
+Australia,2015,"Rifle, shotgun and larger firearm discharge (W33)",W33,3
+Australia,2015,Discharge from other and unspecified firearms (W34),W34,0
+Australia,2015,Intentional self-harm by handgun discharge (X72),X72,18
+Australia,2015,"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",X73,134
+Australia,2015,Intentional self-harm by other and unspecified firearm discharge (X74),X74,23
+Australia,2015,Assault by handgun discharge (X93),X93,2
+Australia,2015,"Assault by rifle, shotgun and larger firearm discharge (X94)",X94,14
+Australia,2015,Assault by other and unspecified firearm discharge (X95),X95,13
+Australia,2015,"Handgun discharge, undetermined intent (Y22)",Y22,0
+Australia,2015,"Rifle, shotgun and larger firearm discharge, undetermined intent (Y23)",Y23,2
+Australia,2015,"Other and unspecified firearm discharge, undetermined intent (Y24)",Y24,2
+Australia,2016,Handgun discharge (W32),W32,0
+Australia,2016,"Rifle, shotgun and larger firearm discharge (W33)",W33,4
+Australia,2016,Discharge from other and unspecified firearms (W34),W34,0
+Australia,2016,Intentional self-harm by handgun discharge (X72),X72,17
+Australia,2016,"Intentional self-harm by rifle, shotgun and larger firearm discharge (X73)",X73,150
+Australia,2016,Intentional self-harm by other and unspecified firearm discharge (X74),X74,7
+Australia,2016,Assault by handgun discharge (X93),X93,4
+Australia,2016,"Assault by rifle, shotgun and larger firearm discharge (X94)",X94,20
+Australia,2016,Assault by other and unspecified firearm discharge (X95),X95,14
+Australia,2016,"Handgun discharge, undetermined intent (Y22)",Y22,1
+Australia,2016,"Rifle, shotgun and larger firearm discharge, undetermined intent (Y23)",Y23,0
+Australia,2016,"Other and unspecified firearm discharge, undetermined intent (Y24)",Y24,1
+United Kingdom,2013,W32 Handgun discharge,W32,0
+United Kingdom,2013,"W33 Rifle, shotgun and larger firearm discharge",W33,1
+United Kingdom,2013,W34 Discharge from other and unspecified firearms,W34,1
+United Kingdom,2013,X72 Intentional self-harm by handgun discharge,X72,2
+United Kingdom,2013,"X73 Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,47
+United Kingdom,2013,X74 Intentional self-harm by other and unspecified firearm discharge,X74,43
+United Kingdom,2013,X93 Assault by handgun discharge,X93,1
+United Kingdom,2013,"X94 Assault by rifle, shotgun and larger firearm discharge",X94,7
+United Kingdom,2013,X95 Assault by other and unspecified firearm discharge,X95,25
+United Kingdom,2013,"Y22 Handgun discharge, undetermined intent",Y22,1
+United Kingdom,2013,"Y23 Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,2
+United Kingdom,2013,"Y24 Other and unspecified firearm discharge, undetermined intent",Y24,6
+United Kingdom,2013,Y35.0 Legal intervention involving firearm discharge,Y35.0,0
+United Kingdom,2014,W32 Handgun discharge,W32,0
+United Kingdom,2014,"W33 Rifle, shotgun and larger firearm discharge",W33,1
+United Kingdom,2014,W34 Discharge from other and unspecified firearms,W34,6
+United Kingdom,2014,X72 Intentional self-harm by handgun discharge,X72,0
+United Kingdom,2014,"X73 Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,32
+United Kingdom,2014,X74 Intentional self-harm by other and unspecified firearm discharge,X74,41
+United Kingdom,2014,X93 Assault by handgun discharge,X93,0
+United Kingdom,2014,"X94 Assault by rifle, shotgun and larger firearm discharge",X94,5
+United Kingdom,2014,X95 Assault by other and unspecified firearm discharge,X95,15
+United Kingdom,2014,"Y22 Handgun discharge, undetermined intent",Y22,0
+United Kingdom,2014,"Y23 Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,3
+United Kingdom,2014,"Y24 Other and unspecified firearm discharge, undetermined intent",Y24,3
+United Kingdom,2014,Y35.0 Legal intervention involving firearm discharge,Y35.0,1
+United Kingdom,2015,W32 Handgun discharge,W32,0
+United Kingdom,2015,"W33 Rifle, shotgun and larger firearm discharge",W33,3
+United Kingdom,2015,W34 Discharge from other and unspecified firearms,W34,3
+United Kingdom,2015,X72 Intentional self-harm by handgun discharge,X72,2
+United Kingdom,2015,"X73 Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,44
+United Kingdom,2015,X74 Intentional self-harm by other and unspecified firearm discharge,X74,42
+United Kingdom,2015,X93 Assault by handgun discharge,X93,1
+United Kingdom,2015,"X94 Assault by rifle, shotgun and larger firearm discharge",X94,4
+United Kingdom,2015,X95 Assault by other and unspecified firearm discharge,X95,7
+United Kingdom,2015,"Y22 Handgun discharge, undetermined intent",Y22,0
+United Kingdom,2015,"Y23 Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,2
+United Kingdom,2015,"Y24 Other and unspecified firearm discharge, undetermined intent",Y24,5
+United Kingdom,2015,Y35.0 Legal intervention involving firearm discharge,Y35.0,0
+United Kingdom,2016,W32 Handgun discharge,W32,0
+United Kingdom,2016,"W33 Rifle, shotgun and larger firearm discharge",W33,2
+United Kingdom,2016,W34 Discharge from other and unspecified firearms,W34,1
+United Kingdom,2016,X72 Intentional self-harm by handgun discharge,X72,0
+United Kingdom,2016,"X73 Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,36
+United Kingdom,2016,X74 Intentional self-harm by other and unspecified firearm discharge,X74,36
+United Kingdom,2016,X93 Assault by handgun discharge,X93,1
+United Kingdom,2016,"X94 Assault by rifle, shotgun and larger firearm discharge",X94,4
+United Kingdom,2016,X95 Assault by other and unspecified firearm discharge,X95,6
+United Kingdom,2016,"Y22 Handgun discharge, undetermined intent",Y22,0
+United Kingdom,2016,"Y23 Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,3
+United Kingdom,2016,"Y24 Other and unspecified firearm discharge, undetermined intent",Y24,3
+United Kingdom,2016,Y35.0 Legal intervention involving firearm discharge,Y35.0,1
+United States,2013,Handgun discharge,W32,79
+United States,2013,"Rifle, shotgun and larger firearm discharge",W33,81
+United States,2013,Discharge from other and unspecified firearms,W34,345
+United States,2013,Intentional self-harm by handgun discharge,X72,5388
+United States,2013,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,3025
+United States,2013,Intentional self-harm by other and unspecified firearm discharge,X74,12762
+United States,2013,Assault by handgun discharge,X93,853
+United States,2013,"Assault by rifle, shotgun and larger firearm discharge",X94,495
+United States,2013,Assault by other and unspecified firearm discharge,X95,9859
+United States,2013,"Handgun discharge, undetermined intent",Y22,33
+United States,2013,"Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,31
+United States,2013,"Other and unspecified firearm discharge, undetermined intent",Y24,217
+United States,2013,Legal intervention involving firearm discharge,Y35.0,467
+United States,2014,Handgun discharge,W32,92
+United States,2014,"Rifle, shotgun and larger firearm discharge",W33,54
+United States,2014,Discharge from other and unspecified firearms,W34,315
+United States,2014,Intentional self-harm by handgun discharge,X72,5386
+United States,2014,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,3042
+United States,2014,Intentional self-harm by other and unspecified firearm discharge,X74,12958
+United States,2014,Assault by handgun discharge,X93,785
+United States,2014,"Assault by rifle, shotgun and larger firearm discharge",X94,455
+United States,2014,Assault by other and unspecified firearm discharge,X95,9768
+United States,2014,"Handgun discharge, undetermined intent",Y22,39
+United States,2014,"Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,23
+United States,2014,"Other and unspecified firearm discharge, undetermined intent",Y24,213
+United States,2014,Legal intervention involving firearm discharge,Y35.0,464
+United States,2015,Handgun discharge,W32,83
+United States,2015,"Rifle, shotgun and larger firearm discharge",W33,64
+United States,2015,Discharge from other and unspecified firearms,W34,342
+United States,2015,Intentional self-harm by handgun discharge,X72,5751
+United States,2015,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,2906
+United States,2015,Intentional self-harm by other and unspecified firearm discharge,X74,13361
+United States,2015,Assault by handgun discharge,X93,984
+United States,2015,"Assault by rifle, shotgun and larger firearm discharge",X94,475
+United States,2015,Assault by other and unspecified firearm discharge,X95,11515
+United States,2015,"Handgun discharge, undetermined intent",Y22,31
+United States,2015,"Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,25
+United States,2015,"Other and unspecified firearm discharge, undetermined intent",Y24,226
+United States,2015,Legal intervention involving firearm discharge,Y35.0,484
+United States,2016,Handgun discharge,W32,96
+United States,2016,"Rifle, shotgun and larger firearm discharge",W33,56
+United States,2016,Discharge from other and unspecified firearms,W34,343
+United States,2016,Intentional self-harm by handgun discharge,X72,6112
+United States,2016,"Intentional self-harm by rifle, shotgun and larger firearm discharge",X73,2890
+United States,2016,Intentional self-harm by other and unspecified firearm discharge,X74,13936
+United States,2016,Assault by handgun discharge,X93,1053
+United States,2016,"Assault by rifle, shotgun and larger firearm discharge",X94,522
+United States,2016,Assault by other and unspecified firearm discharge,X95,12840
+United States,2016,"Handgun discharge, undetermined intent",Y22,52
+United States,2016,"Rifle, shotgun and larger firearm discharge, undetermined intent",Y23,21
+United States,2016,"Other and unspecified firearm discharge, undetermined intent",Y24,227
+United States,2016,Legal intervention involving firearm discharge,Y35.0,510
